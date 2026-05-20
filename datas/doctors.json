@@ -1,0 +1,52 @@
+[
+  {
+    "nom": "Martin",
+    "prenom": "Claire",
+    "specialite": "Medecine generale"
+  },
+  {
+    "nom": "Bernard",
+    "prenom": "Lucas",
+    "specialite": "Cardiologie"
+  },
+  {
+    "nom": "Dubois",
+    "prenom": "Sophie",
+    "specialite": "Dermatologie"
+  },
+  {
+    "nom": "Thomas",
+    "prenom": "Antoine",
+    "specialite": "Pediatrie"
+  },
+  {
+    "nom": "Robert",
+    "prenom": "Julie",
+    "specialite": "Gynecologie"
+  },
+  {
+    "nom": "Richard",
+    "prenom": "Nicolas",
+    "specialite": "Oto-rhino-laryngologie"
+  },
+  {
+    "nom": "Petit",
+    "prenom": "Emma",
+    "specialite": "Ophtalmologie"
+  },
+  {
+    "nom": "Durand",
+    "prenom": "Hugo",
+    "specialite": "Rhumatologie"
+  },
+  {
+    "nom": "Lefevre",
+    "prenom": "Camille",
+    "specialite": "Endocrinologie"
+  },
+  {
+    "nom": "Moreau",
+    "prenom": "Paul",
+    "specialite": "Psychiatrie"
+  }
+]
